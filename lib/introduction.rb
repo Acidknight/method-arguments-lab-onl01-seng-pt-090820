@@ -4,4 +4,4 @@ end
 
 introduction_with_language "Josh", "Ruby"
 
-introduction_with_language "Dan", Ember.js"
+introduction_with_language "Dan", "Ember.js"
